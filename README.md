@@ -16,6 +16,7 @@ Instanzen gelten sollen.
 
 Erstellen Sie jeweils eine spezifische, private Methode für einen Mitarbeiter in
 
+
 1. Buchhaltung (Accounting) zB. **callsCustomer()** etc.
 2. Produktion (Manufacturing)
 3. Werbung (Advertising)
